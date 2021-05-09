@@ -8,10 +8,22 @@ body {
 }
 
 #contenedor {
-    border: 1px solid red;
     width: 70%;
+    border: 1px solid red;
     margin: 0 auto;
-    text-align: left;
-    padding-left: 20px;
+    text-align: left
+}
+#cabecera {
+    font-weight: 600;
+    background-color: royalblue;
+    color: seashell;
+    padding: 0.5em;
+    margin: 0;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+}
+#tagline {
+    font-weight: 400;
+}
+#post {
     padding: 1em;
 }

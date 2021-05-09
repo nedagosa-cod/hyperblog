@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-.contenedor {
+#contenedor {
     border: 1px solid red;
     width: 70%;
     margin: 0 auto;
